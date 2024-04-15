@@ -30,7 +30,7 @@ Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su re
 
 ![image](https://github.com/JhonatanRC03/Store_Sales_Analysis/assets/132719375/8bfab22e-e1b1-4455-bee4-ac8a071d6760)
 
-# 📌Conclusión:
+# 📌Conclusiones:
 
 - Identificación de productos y marcas clave: Identificar los productos y marcas más vendidos históricamente te permite enfocar tus esfuerzos en promocionar y optimizar la oferta de estos productos para maximizar las ventas.
 
